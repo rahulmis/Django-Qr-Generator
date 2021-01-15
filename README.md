@@ -1,0 +1,1 @@
+# Django-Qr-Generator
