@@ -18,7 +18,7 @@
 ### 3. Now Run the project
        1. python manage.py makemigrations
        2. python manage.py migrate
-       3. python manage.py create superuser
+       3. python manage.py createsuperuser
        4. python manage.py runserver
 ### 4. Open Link And Access Admin Page
 open this link on your browser `http://127.0.0.1:8000/`
